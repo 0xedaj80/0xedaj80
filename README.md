@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xedaj80
-- 👀 I’m interested in deep computer science stuffs .
+- 👀 I’m interested in deep computer science stuffs like bitcoin, distributed system, blockchain .
 - 🌱 I’m currently learning javascript, reactjs , expressjs, bitcoin
-- 📫 How to reach me - there is no way u can reach me 
+- 📫 How to reach me - dm on twitter
 - ⚡ Fun fact: iam cracked 
 
 <!---
